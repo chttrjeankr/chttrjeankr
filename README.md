@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him :man:
 - ⚡ Fun fact: I'm a Potterhead 🧙 Always
 
+[![python xkcd](https://imgs.xkcd.com/comics/python.png)](https://xkcd.com/353/)
+> [explainxkcd](https://www.explainxkcd.com/wiki/index.php/353:_Python)
