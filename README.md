@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on a _top secret_ :detective: Django project
-- 🌱 I’m currently learning Frontend Development :computer: to support my Django project
+- 🔭 I’m currently working on a _private_ :detective: Django project which is going to be public **very very soon**
+- 🌱 I’m currently exploring Frontend Development :computer: to support my Django project
 - 👯 I’m looking to collaborate on anything that intrigues me :handshake:
 - 🤔 I’m looking for help with Gatsby and ReactJS
 - 💬 Ask me about Python :snake:
