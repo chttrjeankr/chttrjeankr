@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello, I'm Ankur 👋
 
 <!--
 **chttrjeankr/chttrjeankr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything that intrigues me :handshake:
 - 🤔 I’m looking for help with Gatsby and ReactJS
 - 💬 Ask me about Python :snake:
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ankurchattopadhyay)
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/ankurchattopadhyay/"><img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 - 😄 Pronouns: He/Him :man:
 - ⚡ Fun fact: I'm a Potterhead 🧙 Always
 
