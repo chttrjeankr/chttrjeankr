@@ -1,5 +1,7 @@
 # Hello, I'm Ankur 👋
 
+<a href="https://www.python.org/dev/peps/pep-0020/#id2" target="blank"><img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python" align="right" height="250px"></a>
+
 - 🔭 I’m currently working on a _private_ :detective: Django project which is going to be public **very very soon**
 - 🌱 I’m currently exploring Frontend Development :computer: to support my Django project
 - 👯 I’m looking to collaborate on anything that intrigues me :handshake:
