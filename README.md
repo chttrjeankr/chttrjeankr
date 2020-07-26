@@ -10,7 +10,7 @@
 - 😄 Pronouns: He/Him :man:
 - ⚡ Fun fact: I'm a Potterhead 🧙 Always
 
-[![python xkcd](https://imgs.xkcd.com/comics/python.png)](https://xkcd.com/353/)
+<a href="https://xkcd.com/353/" target="blank"><img src="https://imgs.xkcd.com/comics/python.png" alt="python xkcd" height="500px"></a>
 > [explainxkcd](https://www.explainxkcd.com/wiki/index.php/353:_Python)
 
 <a href="https://dev.to/chttrjeankr" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="chttrjeankr" width="30px" /></a>
