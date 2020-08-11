@@ -3,9 +3,9 @@
 <a href="https://www.python.org/dev/peps/pep-0020/#id2" target="blank"><img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python" align="right" height="250px"></a>
 
 - 🔭 I’m currently working on Django projects
-- 🌱 I’m currently exploring Frontend technologies :computer: for my Django projects
+- 🌱 I’m currently exploring JavaScript and ReactJS
 - 👯 I’m looking to collaborate on anything that intrigues me :handshake:
-- 🤔 I’m looking for tips to connect ReactJS with Django/Flask
+- 🤔 I’m looking for tips in Django development and Django REST framework
 - 💬 Ask me about Python :snake:. I'm sure I'll be able to help.
 - 😄 Pronouns: He/Him :man:
 - ⚡ Fun fact: I'm a Potterhead 🧙 Always
