@@ -2,9 +2,9 @@
 
 <a href="https://www.python.org/dev/peps/pep-0020/#id2" target="blank"><img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python" align="right" height="250px"></a>
 
-- 🔭 I’m currently working on Django projects
-- 🌱 I’m currently exploring JavaScript and ReactJS
-- 👯 I’m looking to collaborate on anything that intrigues me :handshake:
+- 🔭 I’m currently interning as a Django developer
+- 🌱 I’m exploring JavaScript and ReactJS
+- 👯 I’m open to collaborate on anything that intrigues me :handshake:
 - 🤔 I’m looking for tips in Django development and Django REST framework
 - 💬 Ask me about Python :snake:. I'm sure I'll be able to help.
 - 😄 Pronouns: He/Him :man:
