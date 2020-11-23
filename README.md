@@ -10,6 +10,10 @@
 - 😄 Pronouns: He/Him :man:
 - ⚡ Fun fact: I'm a Potterhead 🧙 Always
 
+> When in doubt, read documentation. When you're sure, read documentation nevertheless. There's always something new to learn.
+>
+> \- Me
+
 <a href="https://xkcd.com/353/" target="blank"><img src="https://imgs.xkcd.com/comics/python.png" alt="python xkcd" height="500px"></a>
 > [explainxkcd](https://www.explainxkcd.com/wiki/index.php/353:_Python)
 
