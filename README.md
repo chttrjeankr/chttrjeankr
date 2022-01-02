@@ -2,13 +2,15 @@
 
 <a href="https://www.python.org/dev/peps/pep-0020/#id2" target="blank"><img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python" align="right" height="250px"></a>
 
-- 🔭 I’m currently working as a Django developer
-- 🌱 I’m trying to learn more of JavaScript and DRF
+- 🔭 I’m currently working as a webMethods Integration developer
+- 🌱 I’m trying to learn more of Jenkins and use more of Scrum
 - 👯 I’m open to collaborate on anything that intrigues me :handshake:
-- 🤔 I’m looking for tips in Django development and Django REST framework
 - 💬 Ask me about Python :snake:. I'm sure I'll be able to help.
 - 😄 Pronouns: He/Him :man:
 - ⚡ Fun fact: I'm a Potterhead 🧙 Always
+<!---
+- 🤔 I’m looking for tips in Django development and Django REST framework
+--->
 
 > When in doubt, read documentation. When you're sure, read documentation nevertheless. There's always something new to learn.
 >
